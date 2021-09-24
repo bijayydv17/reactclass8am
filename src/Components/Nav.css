@@ -1,0 +1,10 @@
+.top-nav{
+    background-color:#232f39 ;
+    
+}
+.custom-nav{
+    background-color:#131913 !important;
+}
+.custom-nav .nav-link{
+  color:#ffff !important;  
+}
